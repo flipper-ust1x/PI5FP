@@ -1,2 +1,2 @@
 # PI5FP
-Heavily modified version of Raspberry pi OS Trixie.
+this is currently not usable and is still under development.
